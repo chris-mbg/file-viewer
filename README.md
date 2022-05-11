@@ -16,7 +16,7 @@ It is assumed that all file names do include a dot ( **.** ) and folder names do
 
 ### Strategy
 
-When researching the best way to render a file tree structure, I quickly came across the concept of recursion. It's something I haven't used prior to this exercise, but I can see how it's beneficial for this use case. The file structure could potentially vary in complexity and the recursion approach makes the apllication able to render any of those. I enjoyed adapting it and learning a bit more about this computer science concept.
+When researching the best way to render a file tree structure, I quickly came across the concept of recursion. It's something I haven't used prior to this exercise, but I really found beneficial for this use case, where each `Folder` component is a start of a new `Tree`. The original file structure could potentially vary in complexity and the recursion approach makes the application able to render a different structure. I enjoyed adapting this computer science concept and learning a bit more about it.
 
 ### View it live...
 
